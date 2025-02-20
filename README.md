@@ -3,7 +3,7 @@
 The GSKAV Store aims to create an annual sales report for 2022. This report will help the store owner analyze customer behavior and enhance sales in 2023 & 2024.
 
 ## Dataset Used
-- <a href=”https://github.com/Kavya-634/GSKAV-Excel-Dashboard-for-Data-Analysis/blob/main/GSKAV%20Store%20Data%20Analysis.xlsx”>Dataset</a>
+- <a href="https://github.com/Kavya-634/GSKAV-Excel-Dashboard-for-Data-Analysis/blob/main/GSKAV%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 1.	Compare the sales and orders using a single chart.
@@ -16,7 +16,7 @@ The GSKAV Store aims to create an annual sales report for 2022. This report will
 8.	Percentage of total orders delivered.
 
 ## Dashboard Interaction 
-- <a href=”https://github.com/Kavya-634/GSKAV-Excel-Dashboard-for-Data-Analysis/blob/main/GSKAV%20Store%20Excel%20Dashboard.png”>Dashboard</a>
+- <a href="https://github.com/Kavya-634/GSKAV-Excel-Dashboard-for-Data-Analysis/blob/main/GSKAV%20Store%20Excel%20Dashboard.png">Dashboard</a>
 
 ## Process
 1.	Verified data for any missing values and anomalies, and corrected them.
