@@ -26,7 +26,7 @@ The GSKAV Store aims to create an annual sales report for 2022. This report will
 
 ## Dashboard
 
-
+![GSKAV Store Excel Dashboard](https://github.com/user-attachments/assets/e6fd5cdb-90aa-482f-a281-4f29e536a70e)
 
 ## Project Insights
 •	Women customers contributed more to sales compared to men (~64%).
